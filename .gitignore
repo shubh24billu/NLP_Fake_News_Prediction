@@ -1,4 +1,17 @@
 venv/
+fake-news-detection/venv/
 __pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
 *.csv
 data/
+fake-news-detection/data/
+models/
+plots/
+Research papers/
+.DS_Store
+*.pkl
+*.h5
+*.pt
